@@ -1,0 +1,77 @@
+{
+  "job_level_baseline_f1_macro": 0.471,
+  "job_level_model_f1_macro": 0.677,
+  "job_level_model_accuracy": 0.812,
+  "recommender_baseline_p10_all": 0.179,
+  "recommender_baseline_p10_technical": 0.069,
+  "recommender_tfidf_p10_all": 0.309,
+  "recommender_tfidf_p10_technical": 0.216,
+  "recommender_embeddings_p10_all": 0.306,
+  "recommender_embeddings_p10_technical": 0.215,
+  "rows_used": 197248,
+  "vocab_size": 2000,
+  "sample_recommendations": {
+    "full stack developer": [
+      "javascript",
+      "react",
+      "angular",
+      "java",
+      "html",
+      "css"
+    ],
+    "data scientist": [
+      "python",
+      "machine learning",
+      "data analysis",
+      "data science",
+      "sql",
+      "data visualization"
+    ],
+    "machine learning engineer": [
+      "python",
+      "machine learning",
+      "tensorflow",
+      "pytorch",
+      "aws",
+      "deep learning"
+    ],
+    "registered nurse": [
+      "nursing",
+      "patient care",
+      "registered nurse",
+      "documentation",
+      "medication administration"
+    ],
+    "accountant": [
+      "accounting",
+      "excel",
+      "financial reporting",
+      "budgeting",
+      "financial analysis",
+      "journal entries"
+    ],
+    "sales manager": [
+      "sales",
+      "sales management",
+      "negotiation",
+      "account management",
+      "customer relationship management",
+      "business development"
+    ],
+    "graphic designer": [
+      "graphic design",
+      "adobe creative suite",
+      "project management",
+      "photoshop",
+      "indesign"
+    ],
+    "civil engineer": [
+      "civil engineering",
+      "project management",
+      "autocad",
+      "civil 3d",
+      "autocad civil 3d",
+      "grading"
+    ]
+  }
+}
