@@ -14,7 +14,13 @@
 
 </div>
 
-> 📷 **Image:** `images/Demo.mov`
+<div align="center">
+
+<video src="images/Demo.mov" width="100%" controls autoplay muted loop>
+  Your browser does not support the video tag.
+</video>
+
+</div>
 
 ---
 
