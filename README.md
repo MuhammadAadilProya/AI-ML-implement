@@ -84,22 +84,21 @@ It works for **every field**, not only tech: software engineering, data science,
 ### Top skills in CS / tech jobs
 
 <!-- 📷 IMAGE PLACEHOLDER: images/03_tech_skills.png -->
-> 📷 **Image:** `images/03_tech_skills.png`
+![Tech Skills](images/03_tech_skills.png)
 
 > 💡 **Finding:** _Write your finding here, e.g. which languages, frameworks and cloud tools lead in tech roles._
 
 ### Top skills across all jobs
 
 <!-- 📷 IMAGE PLACEHOLDER: images/01_top_skills.png -->
-> 📷 **Image:** `images/01_top_skills.png`
+![Top Skills](images/01_top_skills.png)
 
 > 💡 **Finding:** _Write your finding here, e.g. how general skills dominate when all fields are combined._
 
 ### Jobs by level
 
 <!-- 📷 IMAGE PLACEHOLDER: images/02_job_levels.png -->
-> 📷 **Image:** `images/02_job_levels.png`
-
+![Job Levels](images/02_job_levels.png)
 ---
 
 ## 🤖 Models & Results
@@ -107,7 +106,7 @@ It works for **every field**, not only tech: software engineering, data science,
 ### Results summary
 
 <!-- 📷 IMAGE PLACEHOLDER: images/06_model_comparison.png -->
-> 📷 **Image:** `images/06_model_comparison.png`
+![Model Comparison](images/06_model_comparison.png)
 
 | Model | Task | Metric | Baseline | Score |
 |---|---|---|---|---|
@@ -120,19 +119,19 @@ It works for **every field**, not only tech: software engineering, data science,
 ### Skill recommender: sample predictions across fields
 
 <!-- 📷 IMAGE PLACEHOLDER: images/05_recommendations.png -->
-> 📷 **Image:** `images/05_recommendations.png`
+![Recommendations](images/05_recommendations.png)
 
 ### What pushes a job towards each level
 
 <!-- 📷 IMAGE PLACEHOLDER: images/07_level_signals.png -->
-> 📷 **Image:** `images/07_level_signals.png`
+![Level Signals](images/07_level_signals.png)
 
 > 💡 **Finding:** _Write your finding here, e.g. title words like "senior" and "lead" matter more than skills._
 
 ### Job level classifier: confusion matrix
 
 <!-- 📷 IMAGE PLACEHOLDER: images/04_confusion_matrix.png -->
-> 📷 **Image:** `images/04_confusion_matrix.png`
+![Confusion Matrix](images/04_confusion_matrix.png)
 
 ---
 
