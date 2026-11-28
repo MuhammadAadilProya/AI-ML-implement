@@ -241,20 +241,18 @@ python predict.py
 Type any job title, or pick an example, to see the technical and general skills that similar jobs ask for.
 
 <!-- 📷 IMAGE PLACEHOLDER: images/app_skills_tab.png -->
-> 📷 **Image:** `images/08_app_skills_tab.png`
+![Skills for a Job Tab](images/08_app_skills_tab.png)
 
 ### 🎯 Skill gap checker
 Choose a target job and your current skills to see your match %, what you already have, and what to learn next.
 
 <!-- 📷 IMAGE PLACEHOLDER: images/app_gap_tab.png -->
-> 📷 **Image:** `images/09_app_gap_tab.png`
-
+![Skill Gap Checker Tab](images/09_app_gap_tab.png)
 ### 📈 Job level
 Enter a job title and skills to predict the job level.
 
 <!-- 📷 IMAGE PLACEHOLDER: images/app_level_tab.png -->
-> 📷 **Image:** `images/10_app_level_tab.png`
-
+![Job Level Classifier Tab](images/10_app_level_tab.png)
 ---
 
 ## 📁 Project Structure
