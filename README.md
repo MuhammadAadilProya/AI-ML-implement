@@ -77,7 +77,7 @@ It works for **every field**, not only tech: software engineering, data science,
 ### Top technical / field skills (soft skills removed)
 
 <!-- 📷 IMAGE PLACEHOLDER: images/01b_top_technical_skills.png -->
-> 📷 **Image:** `images/01b_top_technical_skills.png`
+![Top Technical Skills](images/01b_top_technical_skills.png)
 
 > 💡 **Finding:** _Write your main finding here, e.g. "SQL and Python are the most requested technical skills across all fields."_
 
